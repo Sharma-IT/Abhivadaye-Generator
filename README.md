@@ -60,7 +60,7 @@ python abhivadaye_generator.py
 
 6. The generated abhivādaye will be displayed on the console and saved to a text file named `abhivādaye_output.txt`.
 
-7. If you choose to load an abhivādaye, it will load the last previously generated, and will print out the contents of the file (i.e. the abhivādaye) onto the console.
+7. If you choose to load an abhivādaye, it will load the last previously generated abhivādaye, and will print out the contents of the file (i.e. the abhivādaye) onto the console.
 
 ## Note
 
