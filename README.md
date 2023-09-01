@@ -20,8 +20,8 @@ The abhivādaye is a traditional and Vedic salutation used by Hindu men but main
 ## Features
 
 - Generate abhivādaye salutations in both Sanskrit and English.
-- Save the generated abhivādaye to a text file for future reference.
-- Load previously generated abhivādaye from files.
+- Save the generated abhivādaye to a text file.
+- Load previously generated abhivādaye.
 
 ## Prerequisites
 
